@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+.container {
+width: 1000px;
+/* justify-content: center; */
+/* text-align: start; */
+align-items: center;
+}
+
+.sentence_question {
+  border-left: 8px solid lightgray;
+  padding-left: 15px;
+  border-top: 5px;
+  padding-top: 15px;
+  height: 80px;
+  position: relative;
+}
+
+.sentence_answer {
+  border-left: 8px solid lightgray;
+  padding-left: 15px;
+  padding-top: 15px;
+  background-color: lightyellow;
+  height: 80px;
+}
