@@ -15,6 +15,7 @@
  */
 .container {
 width: 1000px;
+padding-top: 50px;
 /* justify-content: center; */
 /* text-align: start; */
 align-items: center;
